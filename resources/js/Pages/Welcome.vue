@@ -7,6 +7,6 @@ import TwtterLayout from '../Layouts/TwitterLayout.vue'
 <template>
     <Head title="Welcome" />
 
-    <TwtterLayout>Hello</TwtterLayout>
+    <TwtterLayout></TwtterLayout>
 </template>
 
